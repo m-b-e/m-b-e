@@ -1,4 +1,4 @@
-### Hi there, I'm Max (he/him)!
+### Hi there, I'm Max (he/him/they/them)!
 
 - M.Sc. student of Data Science for Public Policy ('24) at the [Hertie School](https://www.hertie-school.org/en/)
 - Associate Researcher with the CityLAB @ [Technologiestiftung Berlin](https://github.com/technologiestiftung):
